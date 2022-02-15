@@ -1,0 +1,1 @@
+![](CurrencyConverterRun.gif)
